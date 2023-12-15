@@ -1,14 +1,12 @@
 *{
   box-sizing: border-box;
   margin: 0; 
-  /* border: 1px red solid; */
+
 }
 
 body {
-  background-color: #dbdbdb;
   font-family: 'Macondo Swash Caps', cursive;
   color: #ffffff;
-  overflow-y: hidden;
 }
 
 .background{

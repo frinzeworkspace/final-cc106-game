@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mooniiDev/rock-paper-scissors-game.git"
+    "url": "https://github.com/frinzeworkspace/final-cc106-game"
   },
   "author": "frinze",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mooniiDev/rock-paper-scissors-game#readme"
+    "url": "https://github.com/frinzeworkspace/final-cc106-game"
   },
-  "homepage": "https://github.com/mooniiDev/rock-paper-scissors-game#readme"
+  "homepage": "https://frinzeworkspace.github.io/final-cc106-game/"
 }
