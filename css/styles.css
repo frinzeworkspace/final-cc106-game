@@ -10,7 +10,7 @@ body {
 }
 
 .background{
-  background: url('/images/scene.gif');
+  background: url('/scene.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
