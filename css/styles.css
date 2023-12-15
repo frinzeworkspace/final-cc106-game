@@ -5,19 +5,11 @@
 }
 
 body {
+  background-color: #5e5e5e;
   font-family: 'Macondo Swash Caps', cursive;
   color: #ffffff;
 }
 
-.background{
-  background: url('/scene.gif');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
-  width: 100vw;
-  position: fixed;
-}
 
 .gameHeader {
   text-align: center;
