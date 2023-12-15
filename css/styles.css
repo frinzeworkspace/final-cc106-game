@@ -10,6 +10,16 @@ body {
   color: #ffffff;
 }
 
+.background{
+  background: url('/scene.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  z-index: -1;
+}
 
 .gameHeader {
   text-align: center;
@@ -38,7 +48,6 @@ body {
   margin: 30px auto;
   
 }
-
 
 .weapons-area {
  display: flex;
@@ -93,8 +102,6 @@ body {
   transform: none;
 }
 
-
-
 .game-output {
   display: flex;
   border: 4px solid #ffffff;
@@ -110,7 +117,6 @@ body {
 .game-output p{
   margin-top: 12px;
 }
-
 
 .computer-play-div {
   transition: all .2s linear;
