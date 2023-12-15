@@ -1,0 +1,24 @@
+{
+  "name": "rock-paper-scissors-game",
+  "version": "1.0.0",
+  "description": "Simple implementation of Rock Paper Scissors game",
+  "main": "scripts.js",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooniiDev/rock-paper-scissors-game.git"
+  },
+  "author": "frinze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mooniiDev/rock-paper-scissors-game#readme"
+  },
+  "homepage": "https://github.com/mooniiDev/rock-paper-scissors-game#readme"
+}
